@@ -7,8 +7,10 @@ This project investigates whether receiving a daily motivational quote via email
 Does receiving a daily motivational quote via email increase self-reported motivation at the end of the day?
 
 Hypothesis:
-	•	H₀ (Null Hypothesis): There is no difference in motivation scores between those who receive a motivational quote and those who do not.
-	•	H₁ (Alternative Hypothesis): Receiving a motivational quote increases motivation levels compared to the control group.
+
+• H₀ (Null Hypothesis): There is no difference in motivation scores between those who receive a motivational quote and those who do not.
+
+• H₁ (Alternative Hypothesis): Receiving a motivational quote increases motivation levels compared to the control group.
 
 ### Contributors  
 
